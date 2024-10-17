@@ -3,7 +3,7 @@ Version:	56319
 Release:	2
 Summary:	Book Template for Qian Yuan Xue Fu
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/qyxf-book
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/qyxf-book
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/qyxf-book.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/qyxf-book.doc.r%{version}.tar.xz
